@@ -1,9 +1,6 @@
-package edu.iu.habahram.weathermonitoring.controllers;
+package edu.iu.lvanjelg.weathermonitoring.controllers;
 
-import edu.iu.habahram.weathermonitoring.model.CurrentConditionDisplay;
-import edu.iu.habahram.weathermonitoring.model.ForecastDisplay;
-import edu.iu.habahram.weathermonitoring.model.Observer;
-import edu.iu.habahram.weathermonitoring.model.StatisticsDisplay;
+import edu.iu.lvanjelg.weathermonitoring.model.CurrentConditionDisplay;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

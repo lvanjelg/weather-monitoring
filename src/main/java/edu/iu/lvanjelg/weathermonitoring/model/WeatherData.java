@@ -1,4 +1,4 @@
-package edu.iu.habahram.weathermonitoring.model;
+package edu.iu.lvanjelg.weathermonitoring.model;
 
 import org.springframework.stereotype.Component;
 

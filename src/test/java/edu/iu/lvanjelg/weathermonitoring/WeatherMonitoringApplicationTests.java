@@ -1,4 +1,4 @@
-package edu.iu.habahram.weathermonitoring;
+package edu.iu.lvanjelg.weathermonitoring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package edu.iu.habahram.weathermonitoring.model;
+package edu.iu.lvanjelg.weathermonitoring.model;
 
 public interface Observer {
     void update(float temperature, float humidity, float pressure);
